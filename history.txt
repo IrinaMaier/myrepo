@@ -1,0 +1,400 @@
+    1  git config
+    2  git config
+    3  git -v
+    4  git config
+    5  git config --global
+    6  git config --global user
+    7  git config --global user.name
+    8  git config --global user.name "Maier Irina"
+    9  git config --global user.name
+   10  git config --global user.email "maieririna@mail.de"
+   11  git config --global user.email
+   12  git config --list
+   13  cd
+   14  ssh-keygen
+   15  cat .ssh
+   16  cat .ssh
+   17  ssh-ed25519 
+   18  cat ~/.ssh/id_rsa.pub 
+   19  cat .ssh/id_ed25519.pub
+   20  scp ec2-user@linux/itcareerhub.de: /opt/131224-wdm/irinamaier/file.txt .
+   21  ls
+   22  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/irinamaier/file.txt
+   23  ls
+   24  ssh ec2-user@linux.itcareerhub.de:/opt/131224-wdm/irinamaier/file.txt 
+   25  ls
+   26  ssh ec2-user@linux.itcareerhub.de:/opt/131224-wdm/irinamaier/file.txt .
+   27  cd
+   28  cch ec2-user@linux.itcareerhub.de
+   29  ssh ec2-user@linux.itcareerhub.de
+   30  ssh irinamaier@linux.itcareerhub.de
+   31  whoami
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  ssh ec2-user@linux.itcareerhub.de
+   35  ssh ec2-user@linux.itcareerhub.de
+   36  cd /Desktop/test
+   37  cd
+   38  cat .ssh/id_ed25519.pub
+   39  ssh ec2-user@linux.itcareerhub.de
+   40  cd
+   41  cat .ssh/id_ed25519.pub 
+   42  git init
+   43  cp ~/Downloads/cats.jpg ~/git_intro/
+   44  ls ~/Downloads
+   45  cp ~/Downloads/cats.jpeg
+   46  cp ~/Downloads/cats.jpeg ~/git_intro/
+   47  cd ~/git_intro
+   48  ls
+   49  ls ~/Downloads
+   50  cp ~/Downloads/cats.jpeg ~/git_intro/
+   51  ls ~/git_intro
+   52  ls ~/Desktop/git_intro
+   53  cp ~/Downloads/cats.jpeg ~/Desctop/git_intro/
+   54  mkdir ~/git_intro
+   55  cp ~/Downloads/cats.jpeg ~/git_intro/
+   56  pwd
+   57  ls ~/git_intro
+   58  ls -l ~/git_intro/cats.jpeg 
+   59  git add cats.jpeg
+   60  git init
+   61  git add cats.jpeg
+   62  git commit -m "Added photo"
+   63  git branch -M main
+   64  git remote add origin git@github.com:IrinaMaier/git_intro.git
+   65  git push -u origin main
+   66  git status
+   67  git commit -m "Added photo"
+   68  git commit -m "Added photo"
+   69  git commit -m "cats.jpeg
+   70  git commit -m "cats.jpeg"
+   71  git commit -m "cats.jpeg"
+   72  git add cats.jpeg
+   73  ls
+   74  ls ~/git_intro
+   75  pwd
+   76  cd ~/Desktop/git_intro
+   77  ls
+   78  ls
+   79  git add cats.jpeg
+   80  git commit -m "Added cats.jpeg"
+   81  git remote add origin git@github.com:IrinaMaier/git_intro.git
+   82  git push -u origin main
+   83  cd -/Desctop/git-intro-test
+   84  cd -/Desktop/git-intro-test
+   85  cd ~/Desctop/git-intro-test
+   86  git init
+   87  ls -la
+   88  git status
+   89  git add .
+   90  git branch
+   91  git branch -M main
+   92  git remote add origin git@github.com:IrinaMaier/git.git
+   93  git remote -v
+   94  git push -u origin main
+   95  touch file.txt 
+   96  git status
+   97  git add file.txt
+   98  git commit -m "added file.txt"
+   99  git push
+  100  cd ~/Desktop/git_git
+  101  /c/Users/ivan_/Desktop/git_git
+  102  echo "# git_git" >> README.md
+  103  pwd
+  104  git init
+  105  ls -la
+  106  git status
+  107  git add.
+  108   git status
+  109  git commit -m "added smth new"
+  110  git branch
+  111  git branch -M
+  112  git branch -M main
+  113  git remote add origin git@github.com:IrinaMaier/git_git.git
+  114  git remote -v
+  115  git push -u origin main
+  116  git remote add origin
+  117  git push -u origin main
+  118  echo "# git_git" >> README.md
+  119  git init
+  120  git add README.md
+  121  /c/Users/ivan_/Desktop/git_git
+  122  cd ~/c/Users/ivan_/Desktop/git_git
+  123  git init
+  124  echo "# git_git" >> README.md
+  125  ls -la
+  126  git status
+  127  git add README.md
+  128  git status
+  129  git commit -m "Initial commit"
+  130  git remote add origin git@github.com:IrinaMaier/git_git.git
+  131  git push -u origin main
+  132  git status
+  133  git add git_git
+  134  git commit -m "new folder git_git"
+  135  git push origin main
+  136  git add .
+  137  cd /c/Users/ivan_/Desktop/home_one
+  138  echo "# home_one" >> README.md
+  139  pwd
+  140  git init
+  141  ls -la
+  142  git status
+  143  git add .
+  144  git status
+  145  git commit -m "first commit"
+  146  git branch -M main
+  147  git remote add origin git@github.com:IrinaMaier/home_one.git
+  148  git push -u origin main
+  149  touch file.txt
+  150  git status
+  151  git add file.txt
+  152  git commit -m "added file.txt"
+  153  git push
+  154  /c/Users/ivan_/Desktop/28.02
+  155  git init
+  156  touch text.txt text2.txt text3.txt
+  157  git add .
+  158  git status
+  159  git commit -m "added 3 file"
+  160  git branch
+  161  git remote add origin git@github.com:IrinaMaier/28.02.git
+  162  git push -u origin main
+  163  /c/Users/ivan_/Desktop/28.02
+  164  echo "# 28.02" >> README.md
+  165  touch text.txt text2.txt text3.txt
+  166  git add .
+  167  pwd
+  168  git status
+  169  git add text.txt text1.txt text2.txt
+  170  git add text.txt text2.txt text3.txt
+  171  git status
+  172  git commit -m "added 3 file"
+  173  git branch
+  174  git remote add origin git@github.com:IrinaMaier/28.02.git
+  175  git push -u origin main
+  176  git remote -v
+  177  git remote add origin git@github.com:IrinaMaier/28.02.git
+  178  git remote remove origin
+  179  git remote add origin git@github.com:IrinaMaier/28.02.git
+  180  git push -u origin main
+  181  git checkout -b test
+  182  git log
+  183  touch text4.txt text5.txt
+  184  ls -la
+  185  rm text.txt
+  186  git status
+  187  git add .
+  188  git commit -m "added 2file delete 1"
+  189  git push -u origin test
+  190  ~/c/Users/ivan_/Desktop/git_branch
+  191  echo "# git_branch" >> README.md
+  192  git init
+  193  git commit -m "first commit"
+  194  git branch -M main
+  195  /c/Users/ivan_/Desktop/git_branch
+  196  echo "# git_branch" >> README.md
+  197  git init
+  198  git add README.md
+  199  git commit -m "first commit"
+  200  git branch -M main
+  201  git remote add origin git@github.com:IrinaMaier/git_branch.git
+  202  git push -u origin main
+  203  git checkout -b gitignore
+  204  curl -o .gitignore https://github.com/aliaskov/bashscripts/blob/master/.gitignore 
+  205  git add .gitignore
+  206  git commit -m "With .gitignore"
+  207  git push origin gitignore
+  208  git branch
+  209  git status
+  210  pwd
+  211  rm -rf .git
+  212  cd ~/Desktop/git_branch
+  213  git init
+  214  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  215  git add .gitignore
+  216  git commit -m "With .gitignore"
+  217  git remote add origin git@github.com:IrinaMaier/git_branch.git
+  218  git remote add origin https://github.com/IrinaMaier/git_branch.git
+  219  git push -u origin gitignore
+  220  pwd
+  221  ls -la
+  222  git checkout -b gitignore
+  223  git branch
+  224  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  225  ls -la
+  226  git add .gitignore
+  227  git commit -m "With .gitignore"
+  228  git remote add origin https://github.com/IrinaMaier/git_branch.git
+  229  git remote -v
+  230  git push -u origin gitignore
+  231  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  232  ls -la
+  233  ssh ec2-user@linux.itcareerhub.de
+  234  ssh ec2-user@linux.itcareerhub.de
+  235  mkdir 05032025
+  236  cd05032025
+  237  cd05032025
+  238  cd 05032025
+  239  git init
+  240  ls -la
+  241  echo "test text" > file.txt
+  242  echo "read me" > README.md
+  243  git status
+  244  git add .
+  245  git commit -m "fhffjf"
+  246  git status
+  247  git log
+  248  git commit —-amend -m "Added files README and file"
+  249  git log
+  250  git branch
+  251  git branch -M main
+  252  git branch test
+  253  git branch
+  254  history
+  255  echo "#archives"
+  256  echo "#archives\n"
+  257  echo "#archives\n *.rar"
+  258  echo -e "#archives\n *.rar"
+  259  echo -e "#archives\n *.rar"
+  260  echo -e "#archives\n *.rar" >> .gitignore
+  261  echo "new data" >> file.txt
+  262  git status
+  263  git add .
+  264  git status
+  265  git commit -m “changed file.txt and added .gitignore”
+  266  git commit -m "changed file.txt and added .gitignore"
+  267  git log
+  268  git checkout main
+  269  echo "neues data" >> file.txt
+  270  touch 1.rar
+  271  history
+  272  git status
+  273  git add .
+  274  git status
+  275  git commit -m "new file 1.rar and new data in file.txt"
+  276  git branch
+  277  git merge test
+  278  git status
+  279  nano file.txt
+  280  git status
+  281  git add file.txt
+  282  git commit -m "merged main and test"
+  283  git log --oneline --graph --all
+  284  git remote -v
+  285  git remote add origin git@github.com:IrinaMaier/05032025.git
+  286  git push -u origin main
+  287  git pull
+  288  git pull origin main
+  289  git pull --rebase origin main
+  290  git status
+  291  nano README.md
+  292  git add .
+  293  git rebase --continue
+  294  git push -u origin main
+  295  git status
+  296  nano file.txt
+  297  git add .
+  298  git push -u origin main
+  299  git status
+  300  git commit -m "merged main "
+  301  git push -u origin main
+  302  git status
+  303  git rebase --continue
+  304  git push -u origin main
+  305  winget install Schniz.fnm
+  306  winget install Schniz.fnm
+  307  fnm install 22
+  308  winget install Schniz.fnm
+  309  winget install Schniz.fnm
+  310  ssh ec2-user@linux.itcareerhub.de
+  311  scp
+  312  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/irinamaier/permission_checker.sh "/c/Users/ivan_/Desktop/Linux"
+  313  ssh ec2-user@linux.itcareerhub.de
+  314  ec2-user@linux.itcareerhub.de:/tmp/file.txt ~/Downloads
+  315  ec2-user@linux.itcareerhub.de:/opt/11224-wdm/irinamaier/permission_checker.sh~/Downloads
+  316  scp ec2-user@linux.itcareerhub.de:/opt/11224-wdm/irinamaier/permission_checker.sh ~/Downloads/
+  317  scp ec2-user@linux.itcareerhub.de:/opt/11224-wdm/irinamaier/permission_checker.sh ~/Downloads/
+  318  mkdir -p ~/Downloads
+  319  scp ec2-user@linux.itcareerhub.de:/opt/11224-wdm/irinamaier/permission_checker.sh ~/Downloads/
+  320  scp ec2-user@linux.itcareerhub.de:/opt/11224-wdm/irinamaier/permission_checker.sh .
+  321  scp -v ec2-user@linux.itcareerhub.de:/opt/11224-wdm/irinamaier/permission_checker.sh ~/Downloads/
+  322  ls -ld /opt/131224-wdm/irinamaier
+  323  cd ~/c/Users/ivan_/Desktop/.gitignore
+  324  cd /c/Users/ivan_/Desktop/.gitignore
+  325  echo "# .gitignore" >> README.md
+  326  pwd
+  327  git init
+  328  git add .
+  329  git status
+  330  git commit -m "added new file"
+  331  git branch -M main
+  332  git branch 
+  333  git remote add origin git@github.com:IrinaMaier/.gitignore.git
+  334  git remote -v
+  335  git push -u origin main
+  336  git clone git@github.com:IrinaMaier/.gitignore.git
+  337  cd .gitignore
+  338  cd /c/Users/ivan_/Desktop/myrepo
+  339  echo "# myrepo" >> README.md
+  340  git init
+  341  git add README.md
+  342  git commit -m "added file to myrepo"
+  343  pwd
+  344  git branch -M main
+  345  git remote add origin git@github.com:IrinaMaier/myrepo.git
+  346  git push -u origin main
+  347  git add .gitignore 
+  348  ls ßl
+  349  ls -l
+  350  git add .gitignore 
+  351  touch .gitignore
+  352  ls -l
+  353  git add .gitignore 
+  354  ls -l
+  355  git status
+  356  git commit -m "added a file to myrepo"
+  357  git push origin main
+  358  git clone git@github.com:IrinaMaier/myrepo.git
+  359  ls
+  360  git remote -v
+  361  cd myrepo
+  362  pwd
+  363  lp
+  364  ls
+  365  cd 
+  366  git status
+  367  pwd
+  368  cd /c/Desctop/myrepo
+  369  ls -l
+  370  cd/c/Users/ivan_/Desktop/myrepo
+  371  ls
+  372  rm -rf myrepo
+  373  ls
+  374  git clone git@github.com:IrinaMaier/myrepo.git
+  375  cd myrepo
+  376  git status
+  377  ls
+  378  ls -a
+  379  git status
+  380  git log
+  381  git log -- .gitignore
+  382  ls -a
+  383  git status
+  384  git remote -v
+  385  git checkout -b feature
+  386  nano README.md 
+  387  nano .gitignore 
+  388  git add README.md .gitignore
+  389  git commit -m "new files README.md and .gitignore"
+  390  git branch
+  391  git status
+  392  git push origin feature
+  393  git commit --amend -m "Added changes to README and .gitignore amend"
+  394  git push --force origin feature
+  395  git checkout main
+  396  git pull origin main
+  397  git status
+  398  git merge feature
+  399  git push origin main
+  400  history > history.txt
